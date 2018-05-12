@@ -1,0 +1,40 @@
+_repo: The-Devil_46185
+_version: 0.1.0
+contributor:
+  adapter:
+    agent_name: Herford, Oliver
+    alias: Herford, O. (Oliver)
+    birthdate: 1863
+    deathdate: 1935
+    gutenberg_agent_id: '24852'
+    url: http://www.gutenberg.org/2009/agents/24852
+    wikipedia: http://en.wikipedia.org/wiki/Oliver_Herford
+covers:
+- cover_type: archival
+  image_path: 46185-h/images/molnar_cover02.jpg
+creator:
+  author:
+    agent_name: Molnár, Ferenc
+    aliases:
+    - Molnar, Ferenc
+    - Neumann, Ferenc
+    birthdate: 1878
+    deathdate: 1952
+    gutenberg_agent_id: '5844'
+    url: http://www.gutenberg.org/2009/agents/5844
+    wikipedia: http://en.wikipedia.org/wiki/Ferenc_Molnár
+description: ''
+gutenberg_issued: '2014-07-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46185'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Man-woman relationships -- Drama'
+- !lcc 'PH'
+- !lcsh 'Devil -- Drama'
+title: The Devil
+url: http://www.gutenberg.org/ebooks/46185
